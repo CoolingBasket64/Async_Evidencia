@@ -1,0 +1,17 @@
+{
+  "name": "async2687351",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "async_await":"node async_await"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.1",
+    "request": "^2.88.2"
+  }
+}
+
